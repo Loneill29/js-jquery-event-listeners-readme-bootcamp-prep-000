@@ -2,6 +2,6 @@
 $(document).ready(function(){
 
 function getIt() {
-   $('p').on('click', function() return alert:("Hey!")
+   $('p').on('click', function() {alert("Hey!");
 }
 });
